@@ -1,10 +1,8 @@
-# 🌐 3D Awwwards-Level Developer Portfolio
+# 🛡️ Cybersecurity Analyst & Operations Portfolio
 
-### Built with React, GSAP, Three.js, TailwindCSS
+### Built with React, GSAP, Three.js, & TailwindCSS
 
-This is a fully animated, interactive, 3D developer portfolio designed to **impress clients, recruiters, and hiring managers**. It's more than a portfolio—it's a web experience built with production-level code, scroll-based animations, and real-world best practices.
-
-> ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
+This is a production-level, interactive 3D portfolio designed to showcase **enterprise-grade security operations, threat detection, and incident response**. [cite_start]It transforms technical security metrics and complex architectures into an immersive visual experience to engage recruiters and hiring managers in the cybersecurity industry. [cite: 1, 4]
 
 <br/>
 <div>
@@ -17,80 +15,39 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 </div>
 <br/>
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Expertise & Tech Stack
 
-| Technology       | Description                             |
-| ---------------- | --------------------------------------- |
-| **React (Vite)** | Fast dev server and production bundling |
-| **Tailwind CSS** | Utility-first styling for components    |
-| **GSAP**         | Scroll-based animation and motion logic |
-| **Three.js**     | 3D scenes powered by React Three Fiber  |
-| **Drei**         | Useful helpers for 3D rendering         |
+| Technology | Professional Application |
+| :--- | :--- |
+| **SIEM / SOAR** | [cite_start]Monitoring and alert triage using **Splunk**, **IBM QRadar**, and **Microsoft Sentinel**. [cite: 7, 11] |
+| **Identity & Access** | [cite_start]Managing **Microsoft Entra ID/Azure AD**, MFA, RBAC, and Least Privilege. [cite: 7, 13] |
+| **Incident Response** | [cite_start]Applying **MITRE ATT&CK** and NIST frameworks for root cause analysis. [cite: 6, 16] |
+| **Cloud Security** | [cite_start]**AWS** and **Azure** fundamentals, secure configuration, and cloud logging. [cite: 14] |
+| **Automation** | [cite_start]Developing diagnostic workflows using **Python**, **PowerShell**, and **Bash**. [cite: 7, 27] |
 
 ---
 
-## 📁 Features
+## 📁 Portfolio Features
 
-- 🔥 3D Hero Section with animated planet and golden ring
-- 🧩 Smooth slide-in Navbar with staggered link animations
-- 🎯 Scroll-triggered Service Summary with horizontal word motion
-- 🖼️ Works section with hover overlays and interactive previews
-- ✍️ About section with clip-path image reveal + typewriter text
-- 🏁 Marquee-based Contact Summary and CTA
-- 💼 Fully responsive and accessible on all screen sizes
+- [cite_start]🌐 **3D Defense Hero:** Visual representation of proactive security monitoring and global threat defense. [cite: 4, 10]
+- [cite_start]🎯 **Incident Case Studies:** Scroll-triggered displays showcasing high-priority investigations and 30% reduction in recurring failures. [cite: 24]
+- [cite_start]🛡️ **Interactive Security Labs:** Dedicated sections for **SOC Threat Detection** and **IAM Operations** simulation projects. [cite: 41, 46]
+- [cite_start]🧩 **Audit-Ready Documentation:** Integration of professional SOPs, runbooks, and ISO 27001 aligned reporting. [cite: 8, 28]
+- [cite_start]💼 **Professional Resilience:** Showcasing experience monitoring 800+ servers and remediating 20+ kernel-level vulnerabilities. [cite: 23, 26]
 
 ---
 
 ## 📦 Setup & Installation
 
 ```bash
-git clone https://github.com/Ali-Sanati/awwwards-portfolio.git
-cd awwwards-portfolio
+# Clone the security-focused repository
+git clone [https://github.com/SaiBhargavRaavi/cyber-portfolio.git](https://github.com/SaiBhargavRaavi/cyber-portfolio.git)
+cd cyber-portfolio
+
+# Install production-ready dependencies
 npm install
+
+# Deploy the local development environment
 npm run dev
-```
-
-> Open http://localhost:5173 in your browser.
-
----
-
-## 🛠️ Customization Tips
-
-- Change text, images, and links in /constants/index.js
-
-- Update 3D models and scene in Hero.jsx
-
-- Add your own contact info in Contact.jsx
-
-- Adjust colors, fonts, and layout via tailwind.config.js
-
----
-
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
-
----
-
-## 📣 Like the project?
-
-If this helped you build or inspire your own site:
-
-- ⭐ Star this repo
-
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
-
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
-
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
-
----
-
-## 🤝 Let’s Build Together
-
-Drop a comment on the video or open an issue with your idea!
-
-> 📩 Like, subscribe, and let me know what kind of project you want to build together!
