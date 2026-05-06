@@ -11,15 +11,19 @@ export function Planet(props) {
   const shapeContainer = useRef(null);
   const shperesContainer = useRef(null);
   const ringContainer = useRef(null);
-  const { nodes, materials } = useGLTF("/models/Planet.glb");
+
+  const planetModelPath = `${import.meta.env.BASE_URL}models/Planet.glb`;
+  const { nodes, materials } = useGLTF(planetModelPath);
 
   useGSAP(() => {
     const tl = gsap.timeline();
+
     tl.from(shapeContainer.current.position, {
       y: 5,
       duration: 3,
       ease: "circ.out",
     });
+
     tl.from(
       shperesContainer.current.rotation,
       {
@@ -31,6 +35,7 @@ export function Planet(props) {
       },
       "-=25%"
     );
+
     tl.from(
       ringContainer.current.rotation,
       {
@@ -54,6 +59,7 @@ export function Planet(props) {
           material={materials["Material.002"]}
           rotation={[0, 0, 0.741]}
         />
+
         <mesh
           castShadow
           receiveShadow
@@ -64,6 +70,7 @@ export function Planet(props) {
           scale={0.223}
         />
       </group>
+
       <mesh
         ref={ringContainer}
         castShadow
@@ -77,4 +84,4 @@ export function Planet(props) {
   );
 }
 
-useGLTF.preload("/models/Planet.glb");
+useGLTF.preload(`${import.meta.env.BASE_URL}models/Planet.glb`);
