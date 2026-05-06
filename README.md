@@ -2,40 +2,31 @@
 
 ### Built with React, GSAP, Three.js, & TailwindCSS
 
-This is a production-level, interactive 3D portfolio designed to showcase **enterprise-grade security operations, threat detection, and incident response**. [cite_start]It transforms technical security metrics and complex architectures into an immersive visual experience to engage recruiters and hiring managers in the cybersecurity industry. [cite: 1, 4]
-
-<br/>
-<div>
-  <img src="https://github.com/user-attachments/assets/4eaf9399-fd02-4a90-83f7-2b5a361bc032" alt="Hero" style="border-radius: 8px;"/>
-  <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <img src="https://github.com/user-attachments/assets/155bf742-b24f-4119-89f4-87e6d88c8f53" alt="Works" style="width: 32%; border-radius: 8px;"/>
-    <img src="https://github.com/user-attachments/assets/f22b9749-85ed-434f-a5f6-df1f8e221103" alt="ContactSummary" style="width: 32%; border-radius: 8px;"/>
-    <img src="https://github.com/user-attachments/assets/3e473322-b96a-433b-aec5-ece9bab25795" alt="Contact" style="width: 32%; border-radius: 8px;"/>
-  </div>
-</div>
-<br/>
+[cite_start]This is a production-level, interactive 3D portfolio designed to showcase **enterprise-grade security operations, threat detection, and incident response**[cite: 4, 10]. [cite_start]It transforms technical security metrics and complex architectures into an immersive visual experience to engage recruiters and hiring managers in the cybersecurity industry.
 
 ---
 
 ## 🚀 Core Expertise & Tech Stack
 
-| Technology | Professional Application |
+| Domain | Technical Ecosystem |
 | :--- | :--- |
-| **SIEM / SOAR** | [cite_start]Monitoring and alert triage using **Splunk**, **IBM QRadar**, and **Microsoft Sentinel**. [cite: 7, 11] |
-| **Identity & Access** | [cite_start]Managing **Microsoft Entra ID/Azure AD**, MFA, RBAC, and Least Privilege. [cite: 7, 13] |
-| **Incident Response** | [cite_start]Applying **MITRE ATT&CK** and NIST frameworks for root cause analysis. [cite: 6, 16] |
-| **Cloud Security** | [cite_start]**AWS** and **Azure** fundamentals, secure configuration, and cloud logging. [cite: 14] |
-| **Automation** | [cite_start]Developing diagnostic workflows using **Python**, **PowerShell**, and **Bash**. [cite: 7, 27] |
+| **SIEM & SOAR** | [cite_start]**Splunk**, **Microsoft Sentinel**, **IBM QRadar**, and **TheHive**[cite: 11, 15]. |
+| **Identity & Access** | [cite_start]**Microsoft Entra ID (Azure AD)**, **Active Directory**, **MFA**, and **RBAC**[cite: 7, 13]. |
+| **Threat Defense** | [cite_start]**MITRE ATT&CK**, **Cyber Kill Chain**, **Wireshark**, and **Nessus**[cite: 15, 16]. |
+| **Cloud & Network** | [cite_start]**AWS/Azure Security**, **Firewall Logs**, and **Network Traffic Analysis**[cite: 12, 14]. |
+| **Automation** | [cite_start]**Python**, **PowerShell**, **Bash**, and **SQL**[cite: 17]. |
 
 ---
 
 ## 📁 Portfolio Features
 
-- [cite_start]🌐 **3D Defense Hero:** Visual representation of proactive security monitoring and global threat defense. [cite: 4, 10]
-- [cite_start]🎯 **Incident Case Studies:** Scroll-triggered displays showcasing high-priority investigations and 30% reduction in recurring failures. [cite: 24]
-- [cite_start]🛡️ **Interactive Security Labs:** Dedicated sections for **SOC Threat Detection** and **IAM Operations** simulation projects. [cite: 41, 46]
-- [cite_start]🧩 **Audit-Ready Documentation:** Integration of professional SOPs, runbooks, and ISO 27001 aligned reporting. [cite: 8, 28]
-- [cite_start]💼 **Professional Resilience:** Showcasing experience monitoring 800+ servers and remediating 20+ kernel-level vulnerabilities. [cite: 23, 26]
+* **🌐 3D Defense Hero**: A visual representation of proactive security monitoring and global threat defense, replacing traditional landing pages with a high-stakes security narrative.
+* [cite_start]**🎯 Incident Case Studies**: Scroll-triggered displays showcasing high-priority investigations, such as root-cause analysis on **800+ Linux servers**[cite: 23, 24].
+* **🛡️ Interactive Security Labs**: 
+    * [cite_start]**SOC Lab**: SIEM-based monitoring for brute-force and phishing detection[cite: 41, 43].
+    * [cite_start]**IAM Lab**: User lifecycle management, PIM, and Conditional Access simulations[cite: 46, 47, 50].
+* [cite_start]**🧩 Audit-Ready Documentation**: Showcasing professional **SOPs**, **runbooks**, and **incident reports** aligned with **ISO 27001** and **NIST** practices[cite: 8, 28, 37].
+* [cite_start]**💼 Operational Resilience**: Data-driven results including a **25% improvement in system uptime** and a **35% increase in troubleshooting efficiency**[cite: 23, 27].
 
 ---
 
